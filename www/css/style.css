@@ -1,7 +1,9 @@
 /**/
 
 body{
-  background-color:skyblue;
+  background-color:wheat;
+
+  
 }
 button{
   color:blue;
@@ -31,6 +33,11 @@ button{
 #btnB{
   background-color: yellow;
   color: yellow;
+}
+
+#btnD{
+  background-color:green;
+  color: green;
 }
 
 
@@ -90,6 +97,13 @@ button{
         font-size: 20px;
         position:absolute; top:380px; left:67%; width:33%; height:60px; 
     }
+
+    #btnD {
+        font-size: 20px;
+        position:absolute; top:120px; left:58%; width:33%; height:30px; 
+    }
+
+   
     
     #minute {
         font-size: 30px;
