@@ -9,19 +9,29 @@ button{
   border-radius: 20px;
 }
 #btnA{
-  background-color: yellow;
-  color: green;
+  background-color: red;
+  color: red;
   }
 #remain{
   font-weight: bold;
 } 
 
 #time{
-  box-shadow: 5px 5px 5px;
+  box-shadow: 10px 10px 10px;
   width: 50%;
   margin: 0 auto;
   
 } 
+
+#btnC{
+  background-color:blue;
+  color: blue;
+}
+
+#btnB{
+  background-color: yellow;
+  color: yellow;
+}
 
 
 
